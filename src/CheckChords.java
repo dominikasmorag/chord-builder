@@ -9,7 +9,7 @@ public class CheckChords {
         Scanner sc = new Scanner(System.in);
         String result;
 
-        System.out.println("Which type of chord would you like to get?\n1. Dur\n2. Moll ");
+        System.out.println("Which type of chord would you like to build?\n1. Dur\n2. Moll ");
 
         try {
             int x = sc.nextInt();
